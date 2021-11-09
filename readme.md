@@ -1,0 +1,1 @@
+*Download and install telerik from this url: https://drive.google.com/file/d/1W8BFfgqUV1Zlh18rkhpUhcVIogbPUO7J/edit*
