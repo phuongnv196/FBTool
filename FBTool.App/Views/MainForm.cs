@@ -26,7 +26,7 @@ namespace FBTool.App.Views
                 _facebookBussinesses.Add(facebookBussiness);
                 facebookBussiness.Login(new FacebookAccount { 
                     Username = "sdfs",
-                    Password = "sdfsdf"
+                    Password = "sdsdffsdf"
                 });
             });
             task.Start();
